@@ -35,8 +35,8 @@ puts "Welcome to the Ruby Arithmatic Tutor"
 puts "what is your name?"
 name = gets
 puts "Hello, " + name
-#puts "Press enter to begin the quiz."
-#gets
+puts "Press enter to begin the quiz."
+gets
 score = 0
 
 questions = 3
